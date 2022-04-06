@@ -1,0 +1,43 @@
+
+body{
+  background-image: url(/images/bg2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.nav{
+  background-color: rgb(220, 214, 200);
+}
+.card{
+  border-radius: 50px;
+  margin: 10px;
+}
+.card-img-top{
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+img{
+  border-bottom-left-radius: 0px;
+}
+p{
+  font-size: 23px;
+}
+section{
+  height: 65px; 
+  text-align: center;
+   font-size: 47px; 
+   color: aliceblue;
+}
+.hero{
+  text-align: center;
+  background-color: #bd936e;
+  margin-top: 50px;
+  padding: 20px 0px;
+}
+.hero-text{
+  color: black;
+  font-size: 25px;
+}
+
+
+
